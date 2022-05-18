@@ -4,4 +4,4 @@
 In this project we have the option of Dark Mode 
 
 >### Preview
-[![Gif mostrando o sistema em funcionamento](https://github.com/AllanLobato/Calculator/blob/master/calculadora.gif)
+![Gif mostrando o sistema em funcionamento](https://github.com/AllanLobato/Calculator/blob/master/calculadora.gif)
